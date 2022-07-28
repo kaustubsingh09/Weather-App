@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+}
+.container {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 300px;
+    margin: auto auto;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.other-info{
+    margin-left: 70px;
+}
+.cur-temp {
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 70px;
+}
+
+.head {
+    margin-bottom: 60px;
+}
+
+.late {
+    float: left;
+    margin-right: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+h3 {
+    font-size: medium;
+    display: inline;
+}
+
+.current-img {
+    height: 150px;
+    width: 170px;
+}
